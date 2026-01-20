@@ -1,4 +1,4 @@
-# Owler Companies Dataset Sample
+# Owler Companies データセットサンプル
 
 <h2>1,030件のレコードからなるサンプルデータセット</h2>
 
